@@ -1,0 +1,25 @@
+/* Fonts */
+@font-face {
+font-family: 'Pinecone', sans-serif;
+   src: url('fonts/pinecone.ttf');
+}
+@font-face {
+font-family: 'Helmet', sans-serif;
+   src: url('fonts/helmet.ttf');
+}
+
+/* Styles */
+#principal-text {
+  font-family: 'Pinecone', sans-serif;
+  font-weight:bold;
+  text-align: center;
+  font-size:50px;
+}
+#made-by {
+  font-family: 'Helmet', sans-serif;
+  font-weight:bold;
+  text-align: center;
+  font-size:15px;
+}
+
+/* Thanks to Pinecone Arcade (Pinecone font creators) and Carl Enlund (Helment font creators) */
